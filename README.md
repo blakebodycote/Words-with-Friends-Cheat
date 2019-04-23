@@ -1,6 +1,8 @@
 # Words-with-Friends-Cheat
 This is a work in progress cheat for the game Word's with Friends. The nature of this cheat is a Greedy Algorithm. This cheat will only assess the potential present moves. It will make no decision about moves in the future.  
 
+![Screenshot](https://github.com/blakebodycote/Words-with-Friends-Cheat/blob/master/screenshot.png)
+
 ## Back story
 This idea came about because I was playing words with friends with various people and I found myself attempting to put certain letters on the board for words that I wasn't sure existed in order to get maximum points. I soon realised how time consuming this was and thought it'd be great to have an application that could do this for me. 
 
